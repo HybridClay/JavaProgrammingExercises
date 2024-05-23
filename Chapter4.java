@@ -554,37 +554,5 @@ public class Chapter4 {
          */
 
 
-//TO DO:
-        //QUESTION 4.21
-        //QUESTION 4.22
-        //QUESTION 4.23
-        //QUESTION 4.24
-        //QUESTION 4.25
-        //QUESTION 4.26
-        //QUESTION 4.27
-        //QUESTION 4.28
-        //QUESTION 4.29
-        //QUESTION 4.30
-        //QUESTION 4.31
-        //QUESTION 4.32
-        //QUESTION 4.33
-        //QUESTION 4.34
-        //QUESTION 4.35
-        //QUESTION 4.36
-        //QUESTION 4.37
-        //QUESTION 4.38
-        //QUESTION 4.39
-        //QUESTION 4.40
-        //QUESTION 4.41
-        //QUESTION 4.42
-        //QUESTION 4.43
-        //QUESTION 4.44
-        //QUESTION 4.45
-        //QUESTION 4.46
-        //QUESTION 4.47
-
-
-
-
     }
 }
