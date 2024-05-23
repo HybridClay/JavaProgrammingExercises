@@ -391,10 +391,6 @@ public class Chapter2 {
         //System.out.println("Net Pay: \t $" + (int)(netPay * 100) / 100.0 );
         */
 
-//TO DO:
-        //QUESTION 2.26
-        //QUESTION 2.27
-
 
     }
 
