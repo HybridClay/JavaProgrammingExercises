@@ -39,26 +39,7 @@ public class Chapter5 {
 
         //QUESTION 5.4
         
-
-
-
-
-//TO DO:
-        //QUESTION 5.26
-        //QUESTION 5.27
-        //QUESTION 5.28
-        //QUESTION 5.29
-        //QUESTION 5.30
-        //QUESTION 5.31
-        //QUESTION 5.32
-        //QUESTION 5.33
-        //QUESTION 5.34
-        //QUESTION 5.35
-        //QUESTION 5.36
-        //QUESTION 5.37
-        //QUESTION 5.38
-        //QUESTION 5.39
-
+        
 
 
     }
